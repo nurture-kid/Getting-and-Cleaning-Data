@@ -1,10 +1,10 @@
-==================================================================
 Class Project for Coursera's Getting and Cleaning the Data class
-
-
 ==================================================================
+
+
+
 by Anna
-==================================================================
+----------
 
 The class project requires downloading Human Activity Recognition Using Smartphones Dataset Version 1.0 from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 

@@ -16,29 +16,29 @@ HumanActivity_ActivityMeanAndStandardDeviationMeasurements_Full.txt
 
 QUALITATIVE VARIABLES: 
 -----------------------
-subject: id of subject performing activity
-activity: label of activity performed by subject
+subject: id of subject performing activity  
+activity: label of activity performed by subject  
 
 QUANTITATIVE VARIABLES:
 -----------------------
-mean(): Mean value and std(): Standard deviation for the following set of signals along X, Y and Z axis of motion:
-tBodyAcc
-tGravityAcc
-tBodyAccJerk
-tBodyGyro
-tBodyGyroJerk
-tBodyAccMag
-tGravityAccMag
-tBodyAccJerkMag
-tBodyGyroMag
-tBodyGyroJerkMag
-fBodyAcc
-fBodyAccJerk
-fBodyGyro
-fBodyAccMag
-fBodyAccJerkMag
-fBodyGyroMag
-fBodyGyroJerkMag
+mean(): Mean value and std(): Standard deviation for the following set of signals along X, Y and Z axis of motion:  
+tBodyAcc  
+tGravityAcc  
+tBodyAccJerk  
+tBodyGyro  
+tBodyGyroJerk  
+tBodyAccMag  
+tGravityAccMag  
+tBodyAccJerkMag  
+tBodyGyroMag  
+tBodyGyroJerkMag  
+fBodyAcc  
+fBodyAccJerk  
+fBodyGyro  
+fBodyAccMag  
+fBodyAccJerkMag  
+fBodyGyroMag  
+fBodyGyroJerkMag  
 
 TRANSFORMATIONS
 ----------------
@@ -61,30 +61,30 @@ HumanActivity_AverageMeasurementsBySubjectByActivityType.txt
 
 QUALITATIVE VARIABLES: 
 -----------------------
-subject: id of subject performing activity
-activity: label of activity performed by subject
-
+subject: id of subject performing activity  
+activity: label of activity performed by subject  
+  
 QUANTITATIVE VARIABLES:
 -----------------------
-Average by Subject and Activity of the following measures:
-mean(): Mean value and std(): Standard deviation for the following set of signals along X, Y and Z axis of motion:
-tBodyAcc
-tGravityAcc
-tBodyAccJerk
-tBodyGyro
-tBodyGyroJerk
-tBodyAccMag
-tGravityAccMag
-tBodyAccJerkMag
-tBodyGyroMag
-tBodyGyroJerkMag
-fBodyAcc
-fBodyAccJerk
-fBodyGyro
-fBodyAccMag
-fBodyAccJerkMag
-fBodyGyroMag
-fBodyGyroJerkMag
+Average by Subject and Activity of the following measures:  
+mean(): Mean value and std(): Standard deviation for the following set of signals along X, Y and Z axis of motion:  
+tBodyAcc  
+tGravityAcc  
+tBodyAccJerk  
+tBodyGyro  
+tBodyGyroJerk  
+tBodyAccMag  
+tGravityAccMag  
+tBodyAccJerkMag  
+tBodyGyroMag  
+tBodyGyroJerkMag  
+fBodyAcc  
+fBodyAccJerk  
+fBodyGyro  
+fBodyAccMag  
+fBodyAccJerkMag  
+fBodyGyroMag  
+fBodyGyroJerkMag  
 
 TRANSFORMATIONS
 ----------------
