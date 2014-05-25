@@ -35,7 +35,7 @@ This repository includes the following files
 
 - 'README.md'
 
-- 'run_analysis.R' : R script performing tasks described in the Project Requirements above
+- 'run_analysis.R' : R script performing tasks described in the Project Requirements above. Run the script to obtain sought data sets. 
 
 - 'HumanActivity_ActivityMeanAndStandardDeviationMeasurements_Full.txt' : Dataset containing results of R script, described in 1-4 above
 
